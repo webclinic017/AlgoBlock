@@ -6,7 +6,7 @@ You can view the main source code here:
 - [Source Folder](/src/pages/Home.jsx)
 
 The production version is hosted here:
-- [https://algoblock.net/](https://algoblock.net)
+- [https://algoblock-4a1c4.web.app](https://algoblock-4a1c4.web.app)
 
 ## Running Locally
 
